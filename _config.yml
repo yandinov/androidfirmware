@@ -1,8 +1,8 @@
 name: Jekyll Themes
-url: http://matt.harzewski.com
+url: http://androidfirmware.github.io
 description: Flashing Android Firmware OS
 
-permalink: /themes/:title/
+permalink: /themes/:AndroidFirmware/
 
 gems: [jekyll-paginate]
 
